@@ -1,0 +1,3 @@
+-> A fully-developed turbulent channel flow is solved numerically using LRR Reynolds Stress Model with suitable wall functions.  
+-> The details of the discretization of all equations using FVM is given in the report file.  
+-> Please note that the initialization of reynolds stress quantities was mapped from $k-\varepsilon$ model.
