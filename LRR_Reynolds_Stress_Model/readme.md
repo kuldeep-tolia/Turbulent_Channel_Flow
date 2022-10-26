@@ -1,3 +1,4 @@
 -> A fully-developed turbulent channel flow is solved numerically using Launder, Reece and Rodi (LRR) Reynolds Stress Model with suitable wall functions.  
 -> The details of the discretization of all equations using FVM is given in the report file.  
--> Please note that the initialization of velocity field and reynolds stress turbulent quantities was mapped from $k-\varepsilon$ model.
+-> Please note that the initialization of velocity field and reynolds stress turbulent quantities was mapped from $k-\varepsilon$ model.  
+-> So kindly keep the k_epsilon.m and lrr_rsm.m files in the same directory.
